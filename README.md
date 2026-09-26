@@ -182,4 +182,3 @@ Security notes:
 If you want, I can:
 - Create a more detailed CONTRIBUTING.md or DEV_SETUP.md with step-by-step debugging commands.
 - Insert a secure CORS configuration into `backend/main.py` and update `docker-compose.yml` / `render.yaml` with ALLOWED_ORIGINS.  
-Which do you prefer?
